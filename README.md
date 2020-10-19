@@ -1,2 +1,2 @@
 # pemrograman-komputer
-Tugas praktikum pemrograman
+Tugas pemrograman komputer 2
